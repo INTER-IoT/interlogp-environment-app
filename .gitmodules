@@ -1,0 +1,6 @@
+[submodule "interlogp-weather-backend"]
+	path = interlogp-weather-backend
+	url = gogs@git.inter-iot.eu:Inter-IoT/interlogp-weather-backend
+[submodule "interlogp-weather-frontend"]
+	path = interlogp-weather-frontend
+	url = gogs@git.inter-iot.eu:Inter-IoT/interlogp-weather-frontend
