@@ -4,7 +4,7 @@ Clone recursively with `git clone --recursive <url>`. You have to previously set
 
 ## Building docker image
 
-`docker build -t weather:<tag> .`
+`docker build -t logp-environment:<tag> .`
 
 ## Running the image
 
