@@ -2,10 +2,10 @@ export default {
   mongo: {
     host: 'localhost',
     port: 27017,
-    database: 'environment',
+    database: 'environmental',
   },
   server: {
-    port: 8080,
+    port: 3020,
   },
   dev: false,
 };

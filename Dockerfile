@@ -16,7 +16,7 @@ RUN cd interlogp-weather-frontend && npm install && npm run build
 
 RUN cp -r /interlogp-weather-frontend/dist /interlogp-weather-backend/dist/static
 
-EXPOSE 8080
+EXPOSE 3020
 
 WORKDIR interlogp-weather-backend
 
